@@ -1,0 +1,9 @@
+{
+	"name": "reviewvikki",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "895124b0-1c33-4ad2-95d6-bff26b85ee8e",
+		"tenantId": "35b8288b-ccbe-4178-af8f-bf3ee1d6a7bf"
+	}
+}
